@@ -382,6 +382,7 @@ nav a:hover {
 .portfolio-works img {
 	width: 275px;
 	padding: 5px;
+	vertical-align: middle;
 }
 
 .certifications {
